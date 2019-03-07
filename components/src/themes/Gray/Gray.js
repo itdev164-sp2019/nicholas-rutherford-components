@@ -1,6 +1,6 @@
 import React from 'react'
 import { darken } from 'polished'
-import mastheadImage from './images/styled-components.png'
+import mastheadImage from '../images/styled-components.png'
 import { Menu, Search } from 'styled-icons/feather'
 
 const images = {
