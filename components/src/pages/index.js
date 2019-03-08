@@ -1,6 +1,7 @@
 import React from 'react'
 import { Link } from 'gatsby'
-import Layout from "../layouts/layout"
+
+import Layout from '../layouts/layout'
 import Image from '../gatsby-components/image'
 import SEO from '../gatsby-components/seo'
 import { Button, IconButton, Section } from '../components/Element'
